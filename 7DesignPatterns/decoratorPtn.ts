@@ -1,7 +1,7 @@
 /**
  * Decorator pattern is used to extend the properties of
  *      an  object without changing its internal state
- * -It makes an object opec fot r extension  but closed 
+ * -It makes an object open for extension  but closed 
  *      -- for modification
  */
     
